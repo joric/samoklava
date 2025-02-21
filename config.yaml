@@ -1,7 +1,7 @@
 meta:
   engine: 4.0.4
   name: samoklava
-  version: 0.3
+  version: 0.4
   author: joric
   url: https://github.com/soundmonster/samoklava
 units:
